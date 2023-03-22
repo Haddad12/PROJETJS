@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "nom": "hedi",
+      "prenom": "hadded",
+      "email": "haddedhedi558@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "nom": "haddad",
+      "prenom": "hedi",
+      "email": "hedi123@gmail.com",
+      "password": "123456789",
+      "id": 2
+    },
+    {
+      "nom": "hedi123",
+      "prenom": "haddad123",
+      "email": "123@gmail.com",
+      "password": "123123",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "nom": "ps4",
+      "description": "etat neuf avec fifa 23",
+      "prix": 1800,
+      "quantite": 1,
+      "id": 2
+    },
+    {
+      "nom": "psvita",
+      "description": "jamais utilisée avec 5 jeux",
+      "prix": 1000,
+      "quantite": 1,
+      "id": 3
+    }
+  ]
+}
